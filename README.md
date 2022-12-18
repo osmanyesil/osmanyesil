@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS Development.
 - 🌱 I’m currently Swift language.
 - 💞️ I’m looking to collaborate on AppStore mobile applications.
-- 📫 How to reach me linkedin.
+- 📫 How to reach me <a href="https://www.linkedin.com/in/osmanyesil" rel="nofollow">Osman YESIL</a>
 
 <!---
 osmanyesil/osmanyesil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
