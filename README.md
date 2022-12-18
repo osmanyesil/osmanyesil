@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS Development.
 - 🌱 I’m currently Swift language.
 - 💞️ I’m looking to collaborate on AppStore mobile applications.
-- 💼 Any freelance work? do reach, <a href="osmanyesil@outlook.com">email</a>
+- 💼 Any freelance work? do reach, <a href="mailto:osmanyesil@outlook.com">email</a>
 - 📫 How to reach me <a href="https://www.linkedin.com/in/osmanyesil" rel="nofollow">Osman YESIL</a>
 
 <!---
